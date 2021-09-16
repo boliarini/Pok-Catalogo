@@ -1,34 +1,73 @@
 * {
     box-sizing: border-box;
 }
-  
-  .col-1 {width: 8.33%;}
-  .col-2 {width: 16.66%;}
-  .col-3 {width: 25%;}
-  .col-4 {width: 33.33%;}
-  .col-5 {width: 41.66%;}
-  .col-6 {width: 50%;}
-  .col-7 {width: 58.33%;}
-  .col-8 {width: 66.66%;}
-  .col-9 {width: 75%;}
-  .col-10 {width: 83.33%;}
-  .col-11 {width: 91.66%;}
-  .col-12 {width: 100%;}
 
 html {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
- header {
-    background-color: #FAD61F;
+
+div.navbar {
     height: 64px;
-    box-sizing: border-box;
+    width: 100%;
+    display: inline-flex;
+    
+}
+
+header {
     font-size: 32px;
+    text-align: center;
+    background-color: #FAD61F;
+    
 }
 form {
     border-radius: 50px;
+    
 }
 
 ul {
     display: flex;
     list-style: none;
+}
+
+div.caixa1{
+    background: linear-gradient(86.57deg, #FAD61F -3.78%, rgba(250, 214, 31, 0) 174.9%);
+    width: 250px;
+    height: 250px;
+    border-radius: 31px;
+    font-size: 12px;
+    text-align: center;
+
+}
+
+div.caixa2{
+    background: linear-gradient(86.57deg, #FAD61F -3.78%, rgba(250, 214, 31, 0) 174.9%);
+    width: 250px;
+    height: 250px;
+    border-radius: 31px;
+    font-size: 12px;
+    text-align: center;
+
+}
+div.caixa3{
+    background: linear-gradient(86.57deg, #FAD61F -3.78%, rgba(250, 214, 31, 0) 174.9%);
+    width: 250px;
+    height: 250px;
+    border-radius: 31px;
+    font-size: 12px;
+    text-align: center;
+
+}
+div.caixa4{
+    background: linear-gradient(86.57deg, #FAD61F -3.78%, rgba(250, 214, 31, 0) 174.9%);
+    width: 250px;
+    height: 250px;
+    border-radius: 31px;
+    font-size: 12px;
+    text-align: center;
+
+}
+.listagem {
+    display: flex;
+
+
 }
