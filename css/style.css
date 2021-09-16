@@ -10,23 +10,31 @@ div.navbar {
     height: 64px;
     width: 100%;
     display: inline-flex;
-    
+    background-color: #FAD61F;
 }
 
 header {
     font-size: 32px;
     text-align: center;
     background-color: #FAD61F;
-    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 form {
     border-radius: 50px;
-    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 ul {
     display: flex;
     list-style: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 div.caixa1{
@@ -36,6 +44,10 @@ div.caixa1{
     border-radius: 31px;
     font-size: 12px;
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 
 }
 
@@ -46,6 +58,10 @@ div.caixa2{
     border-radius: 31px;
     font-size: 12px;
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 
 }
 div.caixa3{
@@ -55,7 +71,10 @@ div.caixa3{
     border-radius: 31px;
     font-size: 12px;
     text-align: center;
-
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 div.caixa4{
     background: linear-gradient(86.57deg, #FAD61F -3.78%, rgba(250, 214, 31, 0) 174.9%);
@@ -64,7 +83,10 @@ div.caixa4{
     border-radius: 31px;
     font-size: 12px;
     text-align: center;
-
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .listagem {
     display: flex;
