@@ -31,8 +31,9 @@ header {
     margin-left: 20px;
     margin-right: 20px;
 }
-form.pesquisa {
+div.form_div {
     border-radius: 510px;
+    background-color: #FAD61F;
     margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 20px;
