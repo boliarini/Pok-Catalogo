@@ -32,10 +32,22 @@ header {
     margin-right: 20px;
 }
 div.form_div {
-    border-radius: 510px;
-    background-color: #FAD61F;
+    width: 250px;
+    height: 32px;
+    border-radius: 50px;
+    background-color: #fffbff85;
+    align-items: center;
     margin-top: 20px;
     margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+input[type=text] {
+    width: 150px;
+    height: 12px;
+    background-color: #fffbff10;
+    border: none;
     margin-left: 20px;
     margin-right: 20px;
 }
